@@ -1,5 +1,5 @@
 {
-  "name": "03-shopping-cart",
+  "name": "03-shoping-cart",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "03-shoping-cart": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
